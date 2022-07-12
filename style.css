@@ -1,0 +1,43 @@
+main {
+    padding-bottom: 200px;
+}
+
+.navbar {
+    background-color: #66C859;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-item .nav-link,
+.navbar .navbar-toggler {
+    color: #F2F2F2
+}
+
+.navbar .navbar-brand:hover {
+    color: #16223A;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+    color: #16223A;
+}
+
+.ilustracao {
+    text-decoration: none;
+}
+
+.form-control input[type=text],
+.form-control input[type=date] {
+    outline: none;
+}
+
+.letrascard h3,
+.letrascard h5,
+.letrascard h4,
+.letrascard p {
+    color: #16223A;
+
+}
+
+footer {
+    color: #66C859;
+    border-top: solid 1px #66C859;
+}
